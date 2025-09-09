@@ -1,4 +1,4 @@
-# KONG TAEHO
+#  KONG TAEHO
 
 * :school:Sophomore, Department of Computer Science and Engineering, Seoultech
 * :computer:**Main Programming Language :** C, C++, Java 
